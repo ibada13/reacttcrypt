@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacttcrypt/static/css/main.c2cab247.css",
+    "main.js": "/reacttcrypt/static/js/main.6db28a4e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reacttcrypt/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reacttcrypt/index.html",
+    "main.c2cab247.css.map": "/reacttcrypt/static/css/main.c2cab247.css.map",
+    "main.6db28a4e.js.map": "/reacttcrypt/static/js/main.6db28a4e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reacttcrypt/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.6db28a4e.js"
+  ]
+}
